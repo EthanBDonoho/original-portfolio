@@ -1,0 +1,103 @@
+body {
+    background-color: dimgray;
+    margin: 0;
+    padding: 0;
+}
+
+
+.cardBox {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+
+
+#demo {
+    display: grid;
+    grid-template-columns: 10% 10% 10% 10% 10% 10% 10% 10% 10% 10%;
+    row-gap: 5px;
+    padding: 0;
+    margin: 0;
+    height: 100%;
+    width: 100%;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+
+}
+
+.mana {
+    height: 5%;
+    width: 5%;
+}
+
+.card {
+    width: 100px;
+    transition: transform .2s;
+}
+  
+.card:hover {
+    transform: scale(3);
+}
+
+input[type="checkbox"] {
+    display: none;
+  }
+  
+label {
+    display: block;
+    position: relative;
+    cursor: pointer;
+    width: 5%;
+    height: 5%;
+}
+  
+label img {
+    height: 100%;
+    width: 100%;
+    border: 1px solid transparent;
+}
+    
+:checked + label img {
+    filter: brightness(40%);
+}
+
+.help:hover + .help-text {
+    display: flex;
+    position: absolute;
+}
+
+.help-text {
+    background-color: #FFFFFF;
+    width: 250px;
+    border: 2px solid #000000;
+    font-size: 16px;
+    position: relative;
+    display: none;
+    text-align: center;
+    left: 5%;
+}
+
+.menu {
+    background-color: #0E0B16;
+    position: fixed;
+    height: 5%;
+    width: 100%;
+    text-align: center;
+    z-index: 1;
+}
+
+.menu a {
+    float: left;
+    display: block;
+    color: #E7DFDD;
+    text-align: center;
+    padding: 14px;
+    text-decoration: none;
+}
+
+.menu a:hover {
+    background-color: #4717f6;
+}

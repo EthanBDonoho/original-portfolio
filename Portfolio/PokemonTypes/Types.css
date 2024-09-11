@@ -1,0 +1,226 @@
+/* Sets up main container and background style */
+
+body {
+    background-color: black;
+    background-size: cover;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 0;
+    margin: 0;
+}
+
+#content-box {
+    width: 80%;
+    height: 500%;
+    border: 10px solid lightgray;
+    border-radius: 10px;
+    display: wrap;
+    margin: 0 auto;
+    margin-top: 60px;
+    background-color : darkgray;
+    background-size: cover;
+}
+
+/* Sets up pokemon type styles and buttons */
+
+#pokemon-types {
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+    margin-top: 20px;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+}
+
+.type-box {
+    padding: 3px;
+    margin: 1%;
+    border: 1px solid white;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.type-box:hover {
+    background-color: black;
+    color: white;
+}
+
+.hideme {
+    opacity: 0;
+    z-index: -99999;
+  }
+
+
+.normal {
+    background-color: beige;
+    color: black;
+}
+
+
+.fire {
+    background-color: orange;
+    color: white;
+}
+
+
+.grass {
+    background-color: green;
+    color: white;
+}
+
+.water {
+    background-color: blue;
+    color: white;
+}
+
+.ice {
+    background-color: lightblue;
+    color: black;
+}
+
+.electric {
+    background-color: gold;
+    color: black;
+}
+
+.fighting {
+    background-color: darkred;
+    color: white;
+}
+
+.flying {
+    background-color: skyblue;
+    color: black;
+}
+
+.bug {
+    background-color: yellowgreen;
+    color: white;
+}
+
+.ghost {
+    background-color: purple;
+    color: white;
+}
+
+.rock {
+    background-color: sienna;
+    color: white;
+}
+
+.ground {
+    background-color: burlywood;
+    color: black;
+}
+
+.steel {
+    background-color: silver;
+    color: black;
+}
+
+.dark {
+    background-color: darkgray;
+    color: white;
+}
+
+.psychic {
+    background-color: palevioletred;
+    color: white;
+}
+
+.fairy {
+    background-color: pink;
+    color: black;
+}
+
+.dragon {
+    background-color: teal;
+    color: white;
+}
+
+.poison {
+    background-color: darkviolet;
+    color: white;
+}
+
+.none {
+    background-color: whitesmoke;
+    color: black;
+}
+
+/* Sets up modal and text styles */
+
+.modalText {
+    text-align: center;
+    text-size-adjust: 10px;
+}
+
+.headerText {
+    text-align: center;
+    text-size-adjust: 10px;
+    font-weight: bold;
+    margin-top: 1%;
+}
+
+.modal {
+    display: none;
+    position: fixed; 
+    z-index: 1; 
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%; 
+    overflow: auto; 
+    background-color: rgb(0,0,0); 
+    background-color: rgba(0,0,0,0.4); 
+  }
+  
+  .modal-content {
+    width: 80%;
+    height: 80%;
+    border: 10px solid lightgray;
+    border-radius: 10px;
+    display: wrap;
+    margin: 0 auto;
+    margin-top: 60px;
+    background-color : darkgray;
+    background-size: cover;
+  }
+
+
+
+  .button {
+    text-align-last: center;
+    display: block;
+    color: #E7DFDD;
+    border: 2px solid #4717f6;
+    text-align: center;
+    padding: 5px;
+    text-decoration: none;
+}
+
+.button:hover {
+    border-color: #A239CA;
+}
+
+.menu {
+    background-color: #0E0B16;
+    position: fixed;
+    height: 5%;
+    width: 100%;
+    text-align: center;
+}
+
+.menu a {
+    float: left;
+    display: block;
+    color: #E7DFDD;
+    text-align: center;
+    padding: 14px;
+    text-decoration: none;
+}
+
+.menu a:hover {
+    background-color: #4717f6;
+}

@@ -1,0 +1,148 @@
+body {
+    background-color: black;
+    padding: 0;
+    margin: 0;
+}
+
+.topimage {
+    background-image: url("lulu.png");
+    min-height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .bottomimage {
+    background-image: url("suzu.png");
+    min-height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+.block1 {
+    color: #E7DFDD;
+    background-color: #0E0B16;
+    display: block;
+    text-align: center;
+    padding: 5% 5%;
+}
+
+.block2 {
+    color: #E7DFDD;
+    background-color: #0E0B16;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding: 2% 2%;
+}
+
+.block3 {
+    background-color: #0E0B16;
+    display: block;
+    height: 100%;
+    padding: 10px 10px;
+}
+
+.block4 {
+    color: #E7DFDD;
+    background-color: #0E0B16;
+    border: 2px solid #4717f6;
+    display: flex;
+    height: 300px;
+    padding: 1px 1px;
+}
+
+.block5 {
+    color: #E7DFDD;
+    background-color: #0E0B16;
+    display: block;
+    text-align: center;
+    padding: 1% 1%;
+}
+
+.block6 {
+    border: 2px solid #4717f6;
+    display: block;
+}
+
+.block4:hover {
+    border-color: #A239CA;
+}
+
+.projectpic {
+    height: 100%;
+    width: 98%;
+    object-fit: contain;
+    margin: 0 auto;
+}
+
+
+button {
+    margin: 0 auto;
+    display: block;
+    background-color: #0E0B16;
+    color: #E7DFDD;
+    border: 2px solid #4717f6;
+    text-align: center;
+    padding: 5px;
+    text-decoration: none;
+}
+
+button:hover {
+    border-color: #A239CA;
+}
+
+.menu {
+    background-color: #0E0B16;
+    position: fixed;
+    height: 5%;
+    width: 100%;
+    text-align: center;
+    z-index: 1;
+}
+
+.menu a {
+    float: left;
+    display: block;
+    color: #E7DFDD;
+    text-align: center;
+    padding: 14px;
+    text-decoration: none;
+}
+
+.menu a:hover {
+    background-color: #4717f6;
+}
+
+.info {
+    display: grid;
+    grid-template-columns: 100%;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    gap: 5px;
+}
+
+.bodytext {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 85%;
+    margin: 0 auto;
+}
+
+.titletext {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.4rem;
+}
+
+a:link { 
+    text-decoration: none; 
+  }

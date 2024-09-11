@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Deck Generator</title>
+    <link rel="stylesheet" href="deck.css">
+  </head>
+
+<html>
+<body>
+<div class="menu">
+  <a href="../index.html">Home</a>
+  <a href="../projects.html">Projects</a>
+  <a href="../contact.html">Contact</a>
+</div>
+
+<br>
+<br>
+<br>
+
+<div class="center">
+
+<div>
+<button type="button" class="help">?</button>
+<div class="help-text">
+<ul>
+<li>Select a set from the dropdown menu.</li>
+<li>Select up to two mana colors.</li>
+<li>Click load deck to display deck.</li>
+<ul>
+</div>
+</div>
+  
+<select id="sets">
+<option>Pick a set</option>
+</select>
+
+<input type="checkbox" id="0" />
+<label for="0"><img src="green.svg" /></label>
+<input type="checkbox" id="1" />
+<label for="1"><img src="blue.svg" /></label>
+<input type="checkbox" id="2" />
+<label for="2"><img src="red.svg" /></label>
+<input type="checkbox" id="3" />
+<label for="3"><img src="black.svg" /></label>
+<input type="checkbox" id="4" />
+<label for="4"><img src="white.svg" /></label>
+
+<button type="button" onclick="manaColors()">Load Deck</button>
+
+</div>
+
+<div class="cardBox">
+<div id="demo" class = "cards"></div>
+</div>
+
+<script src="deckGenerator.js"></script>
+</body>
+</html>

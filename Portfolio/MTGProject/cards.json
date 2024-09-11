@@ -1,0 +1,762 @@
+[{
+    "object": "card",
+    "id": "8097c9ce-8fe9-4150-9810-52f6c92c6099",
+    "oracle_id": "b34bb2dc-c1af-4d77-b0b3-a0fb342a5fc6",
+    "multiverse_ids": [
+      269636
+    ],
+    "mtgo_id": 44167,
+    "mtgo_foil_id": 44168,
+    "tcgplayer_id": 58284,
+    "cardmarket_id": 254212,
+    "name": "Forest",
+    "lang": "en",
+    "released_at": "2012-05-04",
+    "uri": "https://api.scryfall.com/cards/8097c9ce-8fe9-4150-9810-52f6c92c6099",
+    "scryfall_uri": "https://scryfall.com/card/avr/242/forest?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/8/0/8097c9ce-8fe9-4150-9810-52f6c92c6099.jpg?1592709739",
+      "normal": "https://cards.scryfall.io/normal/front/8/0/8097c9ce-8fe9-4150-9810-52f6c92c6099.jpg?1592709739",
+      "large": "https://cards.scryfall.io/large/front/8/0/8097c9ce-8fe9-4150-9810-52f6c92c6099.jpg?1592709739",
+      "png": "https://cards.scryfall.io/png/front/8/0/8097c9ce-8fe9-4150-9810-52f6c92c6099.png?1592709739",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/8/0/8097c9ce-8fe9-4150-9810-52f6c92c6099.jpg?1592709739",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/8/0/8097c9ce-8fe9-4150-9810-52f6c92c6099.jpg?1592709739"
+    },
+    "mana_cost": "",
+    "cmc": 0.0,
+    "type_line": "Basic Land — Forest",
+    "oracle_text": "({T}: Add {G}.)",
+    "colors": [
+  
+    ],
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [
+  
+    ],
+    "produced_mana": [
+      "G"
+    ],
+    "legalities": {
+      "standard": "legal",
+      "future": "legal",
+      "historic": "legal",
+      "timeless": "legal",
+      "gladiator": "legal",
+      "pioneer": "legal",
+      "explorer": "legal",
+      "modern": "legal",
+      "legacy": "legal",
+      "pauper": "legal",
+      "vintage": "legal",
+      "penny": "legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "legal",
+      "brawl": "legal",
+      "alchemy": "legal",
+      "paupercommander": "legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "legal",
+      "predh": "legal"
+    },
+    "games": [
+      "paper",
+      "mtgo"
+    ],
+    "reserved": false,
+    "foil": true,
+    "nonfoil": true,
+    "finishes": [
+      "nonfoil",
+      "foil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": true,
+    "variation": false,
+    "set_id": "039810a9-92d7-4f2d-b2d0-ca661ac586c0",
+    "set": "avr",
+    "set_name": "Avacyn Restored",
+    "set_type": "expansion",
+    "set_uri": "https://api.scryfall.com/sets/039810a9-92d7-4f2d-b2d0-ca661ac586c0",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aavr&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/avr?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/8097c9ce-8fe9-4150-9810-52f6c92c6099/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ab34bb2dc-c1af-4d77-b0b3-a0fb342a5fc6&unique=prints",
+    "collector_number": "242",
+    "digital": false,
+    "rarity": "common",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "James Paick",
+    "artist_ids": [
+      "1a7be0a2-d8ac-45c7-b0a0-eb0886f47b5f"
+    ],
+    "illustration_id": "d95ff359-e5e1-4fe3-9107-7c2423a0afd9",
+    "border_color": "black",
+    "frame": "2003",
+    "full_art": false,
+    "textless": false,
+    "booster": true,
+    "story_spotlight": false,
+    "prices": {
+      "usd": "0.15",
+      "usd_foil": "0.75",
+      "usd_etched": null,
+      "eur": "0.13",
+      "eur_foil": "1.02",
+      "tix": "0.04"
+    },
+    "related_uris": {
+      "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=269636&printed=false",
+      "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DForest",
+      "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DForest",
+      "edhrec": "https://edhrec.com/route/?cc=Forest"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F58284%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Avacyn-Restored/Forest-V-1?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards/44167?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+
+  {
+  "object": "card",
+  "id": "25934479-a47e-45b8-bc35-fc4b659b0d68",
+  "oracle_id": "b2c6aa39-2d2a-459c-a555-fb48ba993373",
+  "multiverse_ids": [
+    269639
+  ],
+  "mtgo_id": 44173,
+  "mtgo_foil_id": 44174,
+  "tcgplayer_id": 58275,
+  "cardmarket_id": 254203,
+  "name": "Island",
+  "lang": "en",
+  "released_at": "2012-05-04",
+  "uri": "https://api.scryfall.com/cards/25934479-a47e-45b8-bc35-fc4b659b0d68",
+  "scryfall_uri": "https://scryfall.com/card/avr/233/island?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/2/5/25934479-a47e-45b8-bc35-fc4b659b0d68.jpg?1592709684",
+    "normal": "https://cards.scryfall.io/normal/front/2/5/25934479-a47e-45b8-bc35-fc4b659b0d68.jpg?1592709684",
+    "large": "https://cards.scryfall.io/large/front/2/5/25934479-a47e-45b8-bc35-fc4b659b0d68.jpg?1592709684",
+    "png": "https://cards.scryfall.io/png/front/2/5/25934479-a47e-45b8-bc35-fc4b659b0d68.png?1592709684",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/2/5/25934479-a47e-45b8-bc35-fc4b659b0d68.jpg?1592709684",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/2/5/25934479-a47e-45b8-bc35-fc4b659b0d68.jpg?1592709684"
+  },
+  "mana_cost": "",
+  "cmc": 0.0,
+  "type_line": "Basic Land — Island",
+  "oracle_text": "({T}: Add {U}.)",
+  "colors": [
+
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [
+
+  ],
+  "produced_mana": [
+    "U"
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "explorer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "039810a9-92d7-4f2d-b2d0-ca661ac586c0",
+  "set": "avr",
+  "set_name": "Avacyn Restored",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/039810a9-92d7-4f2d-b2d0-ca661ac586c0",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aavr&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/avr?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/25934479-a47e-45b8-bc35-fc4b659b0d68/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ab2c6aa39-2d2a-459c-a555-fb48ba993373&unique=prints",
+  "collector_number": "233",
+  "digital": false,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "James Paick",
+  "artist_ids": [
+    "1a7be0a2-d8ac-45c7-b0a0-eb0886f47b5f"
+  ],
+  "illustration_id": "761ee7a2-d349-47f5-8338-670d05d272f7",
+  "border_color": "black",
+  "frame": "2003",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "prices": {
+    "usd": "0.08",
+    "usd_foil": "0.59",
+    "usd_etched": null,
+    "eur": "0.07",
+    "eur_foil": "0.65",
+    "tix": "0.04"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=269639&printed=false",
+    "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DIsland",
+    "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DIsland",
+    "edhrec": "https://edhrec.com/route/?cc=Island"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F58275%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Avacyn-Restored/Island-V-1?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/44173?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+},
+
+{
+    "object": "card",
+    "id": "25934479-a47e-45b8-bc35-fc4b659b0d68",
+    "oracle_id": "b2c6aa39-2d2a-459c-a555-fb48ba993373",
+    "multiverse_ids": [
+      269639
+    ],
+    "mtgo_id": 44173,
+    "mtgo_foil_id": 44174,
+    "tcgplayer_id": 58275,
+    "cardmarket_id": 254203,
+    "name": "Island",
+    "lang": "en",
+    "released_at": "2012-05-04",
+    "uri": "https://api.scryfall.com/cards/25934479-a47e-45b8-bc35-fc4b659b0d68",
+    "scryfall_uri": "https://scryfall.com/card/avr/233/island?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/2/5/25934479-a47e-45b8-bc35-fc4b659b0d68.jpg?1592709684",
+      "normal": "https://cards.scryfall.io/normal/front/2/5/25934479-a47e-45b8-bc35-fc4b659b0d68.jpg?1592709684",
+      "large": "https://cards.scryfall.io/large/front/2/5/25934479-a47e-45b8-bc35-fc4b659b0d68.jpg?1592709684",
+      "png": "https://cards.scryfall.io/png/front/2/5/25934479-a47e-45b8-bc35-fc4b659b0d68.png?1592709684",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/2/5/25934479-a47e-45b8-bc35-fc4b659b0d68.jpg?1592709684",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/2/5/25934479-a47e-45b8-bc35-fc4b659b0d68.jpg?1592709684"
+    },
+    "mana_cost": "",
+    "cmc": 0.0,
+    "type_line": "Basic Land — Island",
+    "oracle_text": "({T}: Add {U}.)",
+    "colors": [
+  
+    ],
+    "color_identity": [
+      "U"
+    ],
+    "keywords": [
+  
+    ],
+    "produced_mana": [
+      "U"
+    ],
+    "legalities": {
+      "standard": "legal",
+      "future": "legal",
+      "historic": "legal",
+      "timeless": "legal",
+      "gladiator": "legal",
+      "pioneer": "legal",
+      "explorer": "legal",
+      "modern": "legal",
+      "legacy": "legal",
+      "pauper": "legal",
+      "vintage": "legal",
+      "penny": "legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "legal",
+      "brawl": "legal",
+      "alchemy": "legal",
+      "paupercommander": "legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "legal",
+      "predh": "legal"
+    },
+    "games": [
+      "paper",
+      "mtgo"
+    ],
+    "reserved": false,
+    "foil": true,
+    "nonfoil": true,
+    "finishes": [
+      "nonfoil",
+      "foil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": true,
+    "variation": false,
+    "set_id": "039810a9-92d7-4f2d-b2d0-ca661ac586c0",
+    "set": "avr",
+    "set_name": "Avacyn Restored",
+    "set_type": "expansion",
+    "set_uri": "https://api.scryfall.com/sets/039810a9-92d7-4f2d-b2d0-ca661ac586c0",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aavr&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/avr?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/25934479-a47e-45b8-bc35-fc4b659b0d68/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ab2c6aa39-2d2a-459c-a555-fb48ba993373&unique=prints",
+    "collector_number": "233",
+    "digital": false,
+    "rarity": "common",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "James Paick",
+    "artist_ids": [
+      "1a7be0a2-d8ac-45c7-b0a0-eb0886f47b5f"
+    ],
+    "illustration_id": "761ee7a2-d349-47f5-8338-670d05d272f7",
+    "border_color": "black",
+    "frame": "2003",
+    "full_art": false,
+    "textless": false,
+    "booster": true,
+    "story_spotlight": false,
+    "prices": {
+      "usd": "0.08",
+      "usd_foil": "0.59",
+      "usd_etched": null,
+      "eur": "0.07",
+      "eur_foil": "0.65",
+      "tix": "0.04"
+    },
+    "related_uris": {
+      "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=269639&printed=false",
+      "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DIsland",
+      "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DIsland",
+      "edhrec": "https://edhrec.com/route/?cc=Island"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F58275%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Avacyn-Restored/Island-V-1?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards/44173?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+
+  {
+    "object": "card",
+    "id": "f53b7e7e-494b-4346-b18e-0e879bba7cec",
+    "oracle_id": "a3fb7228-e76b-4e96-a40e-20b5fed75685",
+    "multiverse_ids": [
+      269632
+    ],
+    "mtgo_id": 44159,
+    "mtgo_foil_id": 44160,
+    "tcgplayer_id": 58281,
+    "cardmarket_id": 254209,
+    "name": "Mountain",
+    "lang": "en",
+    "released_at": "2012-05-04",
+    "uri": "https://api.scryfall.com/cards/f53b7e7e-494b-4346-b18e-0e879bba7cec",
+    "scryfall_uri": "https://scryfall.com/card/avr/239/mountain?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/f/5/f53b7e7e-494b-4346-b18e-0e879bba7cec.jpg?1592709721",
+      "normal": "https://cards.scryfall.io/normal/front/f/5/f53b7e7e-494b-4346-b18e-0e879bba7cec.jpg?1592709721",
+      "large": "https://cards.scryfall.io/large/front/f/5/f53b7e7e-494b-4346-b18e-0e879bba7cec.jpg?1592709721",
+      "png": "https://cards.scryfall.io/png/front/f/5/f53b7e7e-494b-4346-b18e-0e879bba7cec.png?1592709721",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/f/5/f53b7e7e-494b-4346-b18e-0e879bba7cec.jpg?1592709721",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/f/5/f53b7e7e-494b-4346-b18e-0e879bba7cec.jpg?1592709721"
+    },
+    "mana_cost": "",
+    "cmc": 0.0,
+    "type_line": "Basic Land — Mountain",
+    "oracle_text": "({T}: Add {R}.)",
+    "colors": [
+  
+    ],
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [
+  
+    ],
+    "produced_mana": [
+      "R"
+    ],
+    "legalities": {
+      "standard": "legal",
+      "future": "legal",
+      "historic": "legal",
+      "timeless": "legal",
+      "gladiator": "legal",
+      "pioneer": "legal",
+      "explorer": "legal",
+      "modern": "legal",
+      "legacy": "legal",
+      "pauper": "legal",
+      "vintage": "legal",
+      "penny": "legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "legal",
+      "brawl": "legal",
+      "alchemy": "legal",
+      "paupercommander": "legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "legal",
+      "predh": "legal"
+    },
+    "games": [
+      "paper",
+      "mtgo"
+    ],
+    "reserved": false,
+    "foil": true,
+    "nonfoil": true,
+    "finishes": [
+      "nonfoil",
+      "foil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": true,
+    "variation": false,
+    "set_id": "039810a9-92d7-4f2d-b2d0-ca661ac586c0",
+    "set": "avr",
+    "set_name": "Avacyn Restored",
+    "set_type": "expansion",
+    "set_uri": "https://api.scryfall.com/sets/039810a9-92d7-4f2d-b2d0-ca661ac586c0",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aavr&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/avr?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/f53b7e7e-494b-4346-b18e-0e879bba7cec/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aa3fb7228-e76b-4e96-a40e-20b5fed75685&unique=prints",
+    "collector_number": "239",
+    "digital": false,
+    "rarity": "common",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "James Paick",
+    "artist_ids": [
+      "1a7be0a2-d8ac-45c7-b0a0-eb0886f47b5f"
+    ],
+    "illustration_id": "b0614ad3-8f62-4775-9668-6a2cd625479f",
+    "border_color": "black",
+    "frame": "2003",
+    "full_art": false,
+    "textless": false,
+    "booster": true,
+    "story_spotlight": false,
+    "prices": {
+      "usd": "0.10",
+      "usd_foil": "0.39",
+      "usd_etched": null,
+      "eur": "0.17",
+      "eur_foil": "0.84",
+      "tix": "0.04"
+    },
+    "related_uris": {
+      "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=269632&printed=false",
+      "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DMountain",
+      "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DMountain",
+      "edhrec": "https://edhrec.com/route/?cc=Mountain"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F58281%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Avacyn-Restored/Mountain-V-1?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards/44159?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+
+  {
+    "object": "card",
+    "id": "339c3f05-444c-4e0a-a556-fc09417ee984",
+    "oracle_id": "56719f6a-1a6c-4c0a-8d21-18f7d7350b68",
+    "multiverse_ids": [
+      269631
+    ],
+    "mtgo_id": 44157,
+    "mtgo_foil_id": 44158,
+    "tcgplayer_id": 58278,
+    "cardmarket_id": 254206,
+    "name": "Swamp",
+    "lang": "en",
+    "released_at": "2012-05-04",
+    "uri": "https://api.scryfall.com/cards/339c3f05-444c-4e0a-a556-fc09417ee984",
+    "scryfall_uri": "https://scryfall.com/card/avr/236/swamp?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/3/3/339c3f05-444c-4e0a-a556-fc09417ee984.jpg?1592709702",
+      "normal": "https://cards.scryfall.io/normal/front/3/3/339c3f05-444c-4e0a-a556-fc09417ee984.jpg?1592709702",
+      "large": "https://cards.scryfall.io/large/front/3/3/339c3f05-444c-4e0a-a556-fc09417ee984.jpg?1592709702",
+      "png": "https://cards.scryfall.io/png/front/3/3/339c3f05-444c-4e0a-a556-fc09417ee984.png?1592709702",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/3/3/339c3f05-444c-4e0a-a556-fc09417ee984.jpg?1592709702",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/3/3/339c3f05-444c-4e0a-a556-fc09417ee984.jpg?1592709702"
+    },
+    "mana_cost": "",
+    "cmc": 0.0,
+    "type_line": "Basic Land — Swamp",
+    "oracle_text": "({T}: Add {B}.)",
+    "colors": [
+  
+    ],
+    "color_identity": [
+      "B"
+    ],
+    "keywords": [
+  
+    ],
+    "produced_mana": [
+      "B"
+    ],
+    "legalities": {
+      "standard": "legal",
+      "future": "legal",
+      "historic": "legal",
+      "timeless": "legal",
+      "gladiator": "legal",
+      "pioneer": "legal",
+      "explorer": "legal",
+      "modern": "legal",
+      "legacy": "legal",
+      "pauper": "legal",
+      "vintage": "legal",
+      "penny": "legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "legal",
+      "brawl": "legal",
+      "alchemy": "legal",
+      "paupercommander": "legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "legal",
+      "predh": "legal"
+    },
+    "games": [
+      "paper",
+      "mtgo"
+    ],
+    "reserved": false,
+    "foil": true,
+    "nonfoil": true,
+    "finishes": [
+      "nonfoil",
+      "foil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": true,
+    "variation": false,
+    "set_id": "039810a9-92d7-4f2d-b2d0-ca661ac586c0",
+    "set": "avr",
+    "set_name": "Avacyn Restored",
+    "set_type": "expansion",
+    "set_uri": "https://api.scryfall.com/sets/039810a9-92d7-4f2d-b2d0-ca661ac586c0",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aavr&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/avr?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/339c3f05-444c-4e0a-a556-fc09417ee984/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A56719f6a-1a6c-4c0a-8d21-18f7d7350b68&unique=prints",
+    "collector_number": "236",
+    "digital": false,
+    "rarity": "common",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "James Paick",
+    "artist_ids": [
+      "1a7be0a2-d8ac-45c7-b0a0-eb0886f47b5f"
+    ],
+    "illustration_id": "c72e3eb2-6c65-4641-a132-7acd9844c15d",
+    "border_color": "black",
+    "frame": "2003",
+    "full_art": false,
+    "textless": false,
+    "booster": true,
+    "story_spotlight": false,
+    "prices": {
+      "usd": "0.09",
+      "usd_foil": "0.52",
+      "usd_etched": null,
+      "eur": "0.09",
+      "eur_foil": "0.68",
+      "tix": "0.04"
+    },
+    "related_uris": {
+      "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=269631&printed=false",
+      "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DSwamp",
+      "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DSwamp",
+      "edhrec": "https://edhrec.com/route/?cc=Swamp"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F58278%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Avacyn-Restored/Swamp-V-1?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards/44157?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  },
+
+  {
+    "object": "card",
+    "id": "f090db87-b7a9-4c88-a211-495b27ae37c9",
+    "oracle_id": "bc71ebf6-2056-41f7-be35-b2e5c34afa99",
+    "multiverse_ids": [
+      269637
+    ],
+    "mtgo_id": 44169,
+    "mtgo_foil_id": 44170,
+    "tcgplayer_id": 58272,
+    "cardmarket_id": 254200,
+    "name": "Plains",
+    "lang": "en",
+    "released_at": "2012-05-04",
+    "uri": "https://api.scryfall.com/cards/f090db87-b7a9-4c88-a211-495b27ae37c9",
+    "scryfall_uri": "https://scryfall.com/card/avr/230/plains?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+      "small": "https://cards.scryfall.io/small/front/f/0/f090db87-b7a9-4c88-a211-495b27ae37c9.jpg?1592709662",
+      "normal": "https://cards.scryfall.io/normal/front/f/0/f090db87-b7a9-4c88-a211-495b27ae37c9.jpg?1592709662",
+      "large": "https://cards.scryfall.io/large/front/f/0/f090db87-b7a9-4c88-a211-495b27ae37c9.jpg?1592709662",
+      "png": "https://cards.scryfall.io/png/front/f/0/f090db87-b7a9-4c88-a211-495b27ae37c9.png?1592709662",
+      "art_crop": "https://cards.scryfall.io/art_crop/front/f/0/f090db87-b7a9-4c88-a211-495b27ae37c9.jpg?1592709662",
+      "border_crop": "https://cards.scryfall.io/border_crop/front/f/0/f090db87-b7a9-4c88-a211-495b27ae37c9.jpg?1592709662"
+    },
+    "mana_cost": "",
+    "cmc": 0.0,
+    "type_line": "Basic Land — Plains",
+    "oracle_text": "({T}: Add {W}.)",
+    "colors": [
+  
+    ],
+    "color_identity": [
+      "W"
+    ],
+    "keywords": [
+  
+    ],
+    "produced_mana": [
+      "W"
+    ],
+    "legalities": {
+      "standard": "legal",
+      "future": "legal",
+      "historic": "legal",
+      "timeless": "legal",
+      "gladiator": "legal",
+      "pioneer": "legal",
+      "explorer": "legal",
+      "modern": "legal",
+      "legacy": "legal",
+      "pauper": "legal",
+      "vintage": "legal",
+      "penny": "legal",
+      "commander": "legal",
+      "oathbreaker": "legal",
+      "standardbrawl": "legal",
+      "brawl": "legal",
+      "alchemy": "legal",
+      "paupercommander": "legal",
+      "duel": "legal",
+      "oldschool": "not_legal",
+      "premodern": "legal",
+      "predh": "legal"
+    },
+    "games": [
+      "paper",
+      "mtgo"
+    ],
+    "reserved": false,
+    "foil": true,
+    "nonfoil": true,
+    "finishes": [
+      "nonfoil",
+      "foil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": true,
+    "variation": false,
+    "set_id": "039810a9-92d7-4f2d-b2d0-ca661ac586c0",
+    "set": "avr",
+    "set_name": "Avacyn Restored",
+    "set_type": "expansion",
+    "set_uri": "https://api.scryfall.com/sets/039810a9-92d7-4f2d-b2d0-ca661ac586c0",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aavr&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/avr?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/f090db87-b7a9-4c88-a211-495b27ae37c9/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Abc71ebf6-2056-41f7-be35-b2e5c34afa99&unique=prints",
+    "collector_number": "230",
+    "digital": false,
+    "rarity": "common",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Adam Paquette",
+    "artist_ids": [
+      "89023dad-e6c0-41e0-83fb-eb2bfbbdc3f2"
+    ],
+    "illustration_id": "e216b2a5-f495-44ec-a9d9-e6b48fe8585d",
+    "border_color": "black",
+    "frame": "2003",
+    "full_art": false,
+    "textless": false,
+    "booster": true,
+    "story_spotlight": false,
+    "prices": {
+      "usd": "0.40",
+      "usd_foil": "0.62",
+      "usd_etched": null,
+      "eur": "0.16",
+      "eur_foil": "1.06",
+      "tix": "0.03"
+    },
+    "related_uris": {
+      "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=269637&printed=false",
+      "tcgplayer_infinite_articles": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Darticle%26game%3Dmagic%26partner%3Dscryfall%26q%3DPlains",
+      "tcgplayer_infinite_decks": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&trafcat=infinite&u=https%3A%2F%2Finfinite.tcgplayer.com%2Fsearch%3FcontentMode%3Ddeck%26game%3Dmagic%26partner%3Dscryfall%26q%3DPlains",
+      "edhrec": "https://edhrec.com/route/?cc=Plains"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://tcgplayer.pxf.io/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F58272%3Fpage%3D1",
+      "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Avacyn-Restored/Plains-V-1?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+      "cardhoarder": "https://www.cardhoarder.com/cards/44169?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+  }
+]

@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pokemon Types</title>
+    <link rel="stylesheet" href="Types.css">
+  </head>
+  <!-- Main container content and buttons-->
+  <body>
+    <div class="menu">
+      <a href="../index.html">Home</a>
+      <a href="../projects.html">Projects</a>
+      <a href="../contact.html">Contact</a>
+    </div>
+    <br>
+    <br>
+    <div id="content-box">
+      <div class='headerText'>Select A Type</div>
+      <div id="pokemon-types" class="grid">
+        <div class="type-box normal" onmousedown="onit(0)">NORMAL</div>
+        <div class="type-box fire" onmousedown="onit(1)">FIRE</div>
+        <div class="type-box grass" onmousedown="onit(2)">GRASS</div>
+        <div class="type-box water" onmousedown="onit(3)">WATER</div>
+        <div class="type-box ice" onmousedown="onit(4)">ICE</div>
+        <div class="type-box electric" onmousedown="onit(5)">ELECTRIC</div>
+        <div class="type-box fighting" onmousedown="onit(6)">FIGHTING</div>
+        <div class="type-box flying" onmousedown="onit(7)">FLYING</div>
+        <div class="type-box bug" onmousedown="onit(8)">BUG</div>
+        <div class="type-box ghost" onmousedown="onit(9)">GHOST</div>
+        <div class="type-box rock" onmousedown="onit(10)">ROCK</div>
+        <div class="type-box ground" onmousedown="onit(11)">GROUND</div>
+        <div class="type-box steel" onmousedown="onit(12)">STEEL</div>
+        <div class="type-box dark" onmousedown="onit(13)">DARK</div>
+        <div class="type-box psychic" onmousedown="onit(14)">PSYCHIC</div>
+        <div class="type-box fairy" onmousedown="onit(15)">FAIRY</div>
+        <div class="type-box dragon" onmousedown="onit(16)">DRAGON</div>
+        <div class="type-box poison" onmousedown="onit(17)">POISON</div>
+      </div>
+    </div>
+    <!-- The Modal -->
+    <div id="myModal" class="modal">
+      <!-- Modal content -->
+      <div class="modal-content">
+        <div id="posts"></div>
+      </div>
+    </div>
+    <script src="PokeTypes.js"></script>
+  </body>
+</html>
